@@ -1,2 +1,2 @@
 # Blog_Api
-  Practicing for exam
+  A blog practise whit users,entrys and comments
